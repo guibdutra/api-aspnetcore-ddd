@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/AspNetCoreDDD.CrossCutting.csproj": {}
+  },
+  "projects": {
+    "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/AspNetCoreDDD.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/AspNetCoreDDD.CrossCutting.csproj",
+        "projectName": "AspNetCoreDDD.CrossCutting",
+        "projectPath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/AspNetCoreDDD.CrossCutting.csproj",
+        "packagesPath": "/Users/guibdutra/.nuget/packages/",
+        "outputPath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/guibdutra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/AspNetCoreDDD.Domain.csproj": {
+                "projectPath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/AspNetCoreDDD.Domain.csproj"
+              },
+              "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Infrastructure/AspNetCoreDDD.Infrastructure.csproj": {
+                "projectPath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Infrastructure/AspNetCoreDDD.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/AspNetCoreDDD.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/AspNetCoreDDD.Domain.csproj",
+        "projectName": "AspNetCoreDDD.Domain",
+        "projectPath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/AspNetCoreDDD.Domain.csproj",
+        "packagesPath": "/Users/guibdutra/.nuget/packages/",
+        "outputPath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/guibdutra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Infrastructure/AspNetCoreDDD.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Infrastructure/AspNetCoreDDD.Infrastructure.csproj",
+        "projectName": "AspNetCoreDDD.Infrastructure",
+        "projectPath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Infrastructure/AspNetCoreDDD.Infrastructure.csproj",
+        "packagesPath": "/Users/guibdutra/.nuget/packages/",
+        "outputPath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/guibdutra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/AspNetCoreDDD.Domain.csproj": {
+                "projectPath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/AspNetCoreDDD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

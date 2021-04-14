@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{9C6FE905-E07A-4B31-9423-7C1C03548471}|Application">
+  <MonoDevelop.Ide.ItemProperties.AspNetCoreDDD.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspNetCoreDDD.Domain/Repository/IUserRepository.cs">
+    <Files>
+      <File FileName="AspNetCoreDDD.Domain/Repository/IUserRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspNetCoreDDD.API" expanded="True">
+            <Node name="AspNetCoreDDD.API" expanded="True" />
+            <Node name="AspNetCoreDDD.CrossCutting" expanded="True" />
+            <Node name="AspNetCoreDDD.Domain" expanded="True">
+              <Node name="Repository" expanded="True">
+                <Node name="IUserRepository.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="AspNetCoreDDD.Infrastructure" expanded="True">
+              <Node name="Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
