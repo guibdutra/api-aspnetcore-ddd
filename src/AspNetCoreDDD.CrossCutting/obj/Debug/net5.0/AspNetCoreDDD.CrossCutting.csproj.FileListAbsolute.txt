@@ -23,7 +23,6 @@
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/bin/Debug/net5.0/AspNetCoreDDD.Infrastructure.dll
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/bin/Debug/net5.0/AspNetCoreDDD.Domain.pdb
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/bin/Debug/net5.0/AspNetCoreDDD.Infrastructure.pdb
-/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/obj/Debug/net5.0/AspNetCoreDDD.CrossCutting.csprojAssemblyReference.cache
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/obj/Debug/net5.0/AspNetCoreDDD.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/obj/Debug/net5.0/AspNetCoreDDD.CrossCutting.AssemblyInfoInputs.cache
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/obj/Debug/net5.0/AspNetCoreDDD.CrossCutting.AssemblyInfo.cs
@@ -32,3 +31,4 @@
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/obj/Debug/net5.0/AspNetCoreDDD.CrossCutting.dll
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/obj/Debug/net5.0/ref/AspNetCoreDDD.CrossCutting.dll
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/obj/Debug/net5.0/AspNetCoreDDD.CrossCutting.pdb
+/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/obj/Debug/net5.0/AspNetCoreDDD.CrossCutting.csproj.AssemblyReference.cache

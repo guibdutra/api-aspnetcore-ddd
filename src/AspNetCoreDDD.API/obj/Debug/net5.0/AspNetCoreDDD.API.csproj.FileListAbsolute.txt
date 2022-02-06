@@ -118,7 +118,6 @@
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/bin/Debug/net5.0/AspNetCoreDDD.Domain.pdb
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/bin/Debug/net5.0/AspNetCoreDDD.CrossCutting.pdb
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/bin/Debug/net5.0/AspNetCoreDDD.Infrastructure.pdb
-/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/AspNetCoreDDD.API.csprojAssemblyReference.cache
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/AspNetCoreDDD.API.GeneratedMSBuildEditorConfig.editorconfig
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/AspNetCoreDDD.API.AssemblyInfoInputs.cache
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/AspNetCoreDDD.API.AssemblyInfo.cs
@@ -126,7 +125,6 @@
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/AspNetCoreDDD.API.MvcApplicationPartsAssemblyInfo.cs
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/AspNetCoreDDD.API.MvcApplicationPartsAssemblyInfo.cache
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/staticwebassets/AspNetCoreDDD.API.StaticWebAssets.Manifest.cache
-/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/staticwebassets/AspNetCoreDDD.API.StaticWebAssets.xml
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/scopedcss/bundle/AspNetCoreDDD.API.styles.css
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/AspNetCoreDDD.API.RazorTargetAssemblyInfo.cache
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/AspNetCoreDDD.API.csproj.CopyComplete
@@ -134,3 +132,6 @@
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/ref/AspNetCoreDDD.API.dll
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/AspNetCoreDDD.API.pdb
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/AspNetCoreDDD.API.genruntimeconfig.cache
+/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/bin/Debug/net5.0/AspNetCoreDDD.API.StaticWebAssets.xml
+/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/bin/Debug/net5.0/AspNetCoreDDD.API
+/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/AspNetCoreDDD.API.csproj.AssemblyReference.cache

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JCIa1/QuSaUu4kD6oY7JF0PbypDW1aAI1C1jtpDqG8wpfOHGXd+EeYrWiLNtcB/S0j49s1Zw8dD+LX3ugq75Iw==",
+  "dgSpecHash": "s4o9dbS6mi3w6PH5ArtyfMR/4RZ2+yoHnR9h+vG52IoQOB78Wg97Y0AHXwm973u9dcGqDqUTDY9JKQ8kMcFdwg==",
   "success": true,
   "projectFilePath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/AspNetCoreDDD.CrossCutting.csproj",
   "expectedPackageFiles": [

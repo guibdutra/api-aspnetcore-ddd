@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hBJMQcoxSmclB/3aohti714BFq24ImZfMRncxLqdLvk8z6bUF4khQYgwIoLo2CGTZ1Xyapa5vrlfKfangzE1ig==",
+  "dgSpecHash": "AB6eUdnnY2hogG9Ydmx8dEemmVFEIcPfdSlWdd9JqmGsWBCFuF+uvPY9wrVyWvVwdIud189SmdAOvrTZa0BMMQ==",
   "success": true,
   "projectFilePath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/AspNetCoreDDD.API.csproj",
   "expectedPackageFiles": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3iVkitVphCuI6cDOX17TGh6LgUZn753P46YtZvwjorNQc4XDqXcWrZpX+8Pj2yRmO6Ov5yb8JonnmrWvyev2KQ==",
+  "dgSpecHash": "D6EX9LZH9UHFj0aZRKTTWk94xinrDR7DpreAN+gKpF/+L1t+AIykpNZ7Gzvs6PdR/spmfGB28Z2842RWPbkA4g==",
   "success": true,
   "projectFilePath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Infrastructure/AspNetCoreDDD.Infrastructure.csproj",
   "expectedPackageFiles": [
