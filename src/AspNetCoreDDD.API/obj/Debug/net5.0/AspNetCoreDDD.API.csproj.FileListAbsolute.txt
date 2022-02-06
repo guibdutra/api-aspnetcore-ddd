@@ -132,6 +132,5 @@
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/ref/AspNetCoreDDD.API.dll
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/AspNetCoreDDD.API.pdb
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/AspNetCoreDDD.API.genruntimeconfig.cache
-/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/bin/Debug/net5.0/AspNetCoreDDD.API.StaticWebAssets.xml
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/bin/Debug/net5.0/AspNetCoreDDD.API
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/obj/Debug/net5.0/AspNetCoreDDD.API.csproj.AssemblyReference.cache
