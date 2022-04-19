@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D6EX9LZH9UHFj0aZRKTTWk94xinrDR7DpreAN+gKpF/+L1t+AIykpNZ7Gzvs6PdR/spmfGB28Z2842RWPbkA4g==",
+  "dgSpecHash": "LoWvQMXFAnnLwqCD7x3hx3IKv7tLubOffuIuOOtQZAiZgsysM2XizIGru23bvffljd3zZCEIt5yLO+DOYrhgmw==",
   "success": true,
-  "projectFilePath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Infrastructure/AspNetCoreDDD.Infrastructure.csproj",
+  "projectFilePath": "/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.Infrastructure/AspNetCoreDDD.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/guibdutra/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",
     "/Users/guibdutra/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

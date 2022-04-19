@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s4o9dbS6mi3w6PH5ArtyfMR/4RZ2+yoHnR9h+vG52IoQOB78Wg97Y0AHXwm973u9dcGqDqUTDY9JKQ8kMcFdwg==",
+  "dgSpecHash": "a4UuMkNS1sHHuwbecIluH1V7/+lv8SBFid9xJo48jES/rIFYQpkRuSshXx79GwIHnUbVGrS8Ra2i1BicKxno3g==",
   "success": true,
-  "projectFilePath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/AspNetCoreDDD.CrossCutting.csproj",
+  "projectFilePath": "/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.CrossCutting/AspNetCoreDDD.CrossCutting.csproj",
   "expectedPackageFiles": [
     "/Users/guibdutra/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",
     "/Users/guibdutra/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/7.0.0/automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

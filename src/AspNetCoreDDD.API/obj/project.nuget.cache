@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AB6eUdnnY2hogG9Ydmx8dEemmVFEIcPfdSlWdd9JqmGsWBCFuF+uvPY9wrVyWvVwdIud189SmdAOvrTZa0BMMQ==",
+  "dgSpecHash": "auWPfR+E+PDyAmFXIJQw0i/3xiQpNXpnd5nh2wo0BToMVs7zqP/LdNicAAEjVxXmndO8vHLORR7F8nYpoYlKsA==",
   "success": true,
-  "projectFilePath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.API/AspNetCoreDDD.API.csproj",
+  "projectFilePath": "/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.API/AspNetCoreDDD.API.csproj",
   "expectedPackageFiles": [
     "/Users/guibdutra/.nuget/packages/automapper/9.0.0/automapper.9.0.0.nupkg.sha512",
     "/Users/guibdutra/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/7.0.0/automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

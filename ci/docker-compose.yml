@@ -9,7 +9,7 @@ services:
     ports:
       - "3306:3306"
     volumes:
-      - /home/guibdutra/dev/Docker/Volumes/MySql:/var/lib/mysql
+      - /var/lib/mysql
       - ./database:/tmp/database
     command: 
       mysqld --init-file="/tmp/database/install_db.sql"

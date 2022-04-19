@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A3Kv7sMB98Fx5cUYqfnUxYckz+elXpd3RJSixFtSoarIx9fRFF0E9/rTCOm3hZNNRswc2p0PbuQFixmoeJ505A==",
+  "dgSpecHash": "gj+vVImMWcS7Q4u8T5eZYz+B2pIoFqmNc8dxg4LAo/0ecK8AUP+GRm6eyseXGgUfsoOaBkDuO9woX+tCj5/SCw==",
   "success": true,
-  "projectFilePath": "/Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/AspNetCoreDDD.Domain.csproj",
+  "projectFilePath": "/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/AspNetCoreDDD.Domain.csproj",
   "expectedPackageFiles": [
     "/Users/guibdutra/.nuget/packages/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",
     "/Users/guibdutra/.nuget/packages/microsoft.identitymodel.jsonwebtokens/5.6.0/microsoft.identitymodel.jsonwebtokens.5.6.0.nupkg.sha512",

@@ -22,3 +22,15 @@
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/obj/Debug/net5.0/ref/AspNetCoreDDD.Domain.dll
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/obj/Debug/net5.0/AspNetCoreDDD.Domain.pdb
 /Users/guibdutra/Projects/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/obj/Debug/net5.0/AspNetCoreDDD.Domain.csproj.AssemblyReference.cache
+/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/bin/Debug/net5.0/AspNetCoreDDD.Domain.deps.json
+/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/bin/Debug/net5.0/AspNetCoreDDD.Domain.dll
+/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/bin/Debug/net5.0/ref/AspNetCoreDDD.Domain.dll
+/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/bin/Debug/net5.0/AspNetCoreDDD.Domain.pdb
+/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/obj/Debug/net5.0/AspNetCoreDDD.Domain.csproj.AssemblyReference.cache
+/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/obj/Debug/net5.0/AspNetCoreDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/obj/Debug/net5.0/AspNetCoreDDD.Domain.AssemblyInfoInputs.cache
+/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/obj/Debug/net5.0/AspNetCoreDDD.Domain.AssemblyInfo.cs
+/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/obj/Debug/net5.0/AspNetCoreDDD.Domain.csproj.CoreCompileInputs.cache
+/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/obj/Debug/net5.0/AspNetCoreDDD.Domain.dll
+/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/obj/Debug/net5.0/ref/AspNetCoreDDD.Domain.dll
+/Users/guibdutra/source/api-aspnetcore-ddd/src/AspNetCoreDDD.Domain/obj/Debug/net5.0/AspNetCoreDDD.Domain.pdb
